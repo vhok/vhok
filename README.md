@@ -7,7 +7,7 @@
 
 My background was in Engineering where I worked in the aerospace industry. Despite enjoying my role, I spent years considering whether there was something more I wanted to do. 2020 was a crazy one... But, because of it, I finally received the push I needed to make my move into Web Development. From aerospace :airplane: to the internet :computer: I'm excited to finally be here. Everyday I wake up refreshed knowing that I'm surrounded by an incredible community of like-minded collaborators!
 
-- 📚 I’m currently learning React context API, Node.js, and MongoDB.
+- 📚 I’m currently learning React Context API, Node.js, and MongoDB.
 - 👯 I’m looking to collaborate with other Web Developers.
 - 🏒 2021 Goals: Make it the best year to date.
 - ⚡ Fun fact: I love snowboarding, anime, and gaming.

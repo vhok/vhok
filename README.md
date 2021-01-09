@@ -24,7 +24,7 @@ My background was in Engineering where I worked in the aerospace industry. Despi
 
 - Project 3: [Grid X Drop][gridxdrop]  
   HTML | CSS | Sass | BEM | JavaScript | jQuery  
-  Description: A floor plan simulator laid out in a grid. Allows for placing down various pieces of furniture. Demonstrates principles of object collision detection, error         handling and a console of accessibility users.
+  Description: A floor plan simulator laid out in a grid. Allows for placing down various pieces of furniture. Demonstrates principles of object collision detection, error         handling and a console for accessibility users.
 
 - Project 4: [Sport Spot][sportspot] | [GitHub Repo (External)][sportspot-gh]  
   HTML | CSS | Sass | BEM | JavaScript | jQuery | REST API | Pair Programming w/ [Syl Aucoin][syl]  

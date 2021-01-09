@@ -22,21 +22,21 @@ My background was in Engineering where I worked in the aerospace industry. Despi
   HTML | CSS | Sass | BEM  
   Description: PSD conversion for a hypothetical shoe store.
 
-Project 3: [Grid X Drop][gridxdrop]  
-HTML | CSS | Sass | BEM | JavaScript | jQuery  
-Description: A floor plan simulator laid out in a grid. Allows for placing down various pieces of furniture. Demonstrates principles of object collision detection, error         handling and a console of accessibility users.
+- Project 3: [Grid X Drop][gridxdrop]  
+  HTML | CSS | Sass | BEM | JavaScript | jQuery  
+  Description: A floor plan simulator laid out in a grid. Allows for placing down various pieces of furniture. Demonstrates principles of object collision detection, error         handling and a console of accessibility users.
 
-Project 4: [Sport Spot][sportspot]  
-HTML | CSS | Sass | BEM | JavaScript | jQuery | REST API | Pair Programming w/ [Syl Aucoin][syl]  
-Description: A fields and recreational facilities locator for various popular sports. Features HTML Geolocation API which allows dynamic retrieval of a user's location to find   the nearest facilities for a given sport.
+- Project 4: [Sport Spot][sportspot]  
+  HTML | CSS | Sass | BEM | JavaScript | jQuery | REST API | Pair Programming w/ [Syl Aucoin][syl]  
+  Description: A fields and recreational facilities locator for various popular sports. Features HTML Geolocation API which allows dynamic retrieval of a user's location to find   the nearest facilities for a given sport.
 
-Project 5: [My Debug Pal][mydebugpal]  
-HTML | CSS | Sass | BEM | JavaScript | React | Firebase  
-Description: A issue tracking and management application that allows logging and editing issues against repositories on my GitHub account.
+- Project 5: [My Debug Pal][mydebugpal]  
+  HTML | CSS | Sass | BEM | JavaScript | React | Firebase  
+  Description: A issue tracking and management application that allows logging and editing issues against repositories on my GitHub account.
   
-Project 6: [Not So Social Event Planner][notsosocial]  
-HTML | CSS | Sass | BEM | JavaScript | React | REST API | Gorup Programming  
-Description: A TV show scheduler for finding alternatives for attending social events.
+- Project 6: [Not So Social Event Planner][notsosocial]  
+  HTML | CSS | Sass | BEM | JavaScript | React | REST API | Gorup Programming  
+  Description: A TV show scheduler for finding alternatives for attending social events.
 
 ### Connect with me:
 

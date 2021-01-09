@@ -1,4 +1,4 @@
-### Hi there, I'm Victor 👋
+### Hi there, I'm Victor (He/Him) 👋
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://www.victorhok.com)](https://www.victorhok.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hokdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hokvdev?ref_src=twsrc%5Etfw)
@@ -9,7 +9,7 @@ My background was in Engineering where I worked in the aerospace industry. Despi
 
 - 📚 I’m currently learning React context API, Node.js, and MongoDB.
 - 👯 I’m looking to collaborate with other Web Developers.
-- 🥅 2021 Goals: Make it the best year to date.
+- 🏒 2021 Goals: Make it the best year to date.
 - ⚡ Fun fact: I love snowboarding, anime, and gaming.
 
 ### Connect with me:
@@ -21,3 +21,36 @@ My background was in Engineering where I worked in the aerospace industry. Despi
 [website]: https://www.victorhok.com
 [twitter]: https://twitter.com/hokdev
 [linkedin]: https://www.linkedin.com/in/victorhok/
+
+### Projects Overview:
+
+- Project 1: Bikerland
+  HTML | CSS | Sass | BEM
+  Description: PSD conversion for a hypothetical bikeshop.
+  
+- Project 2: Shoe Kloset
+  HTML | CSS | Sass | BEM
+  Description: PSD conversion for a hypothetical shoe store.
+  
+- Project 3: [Grid X Drop][gridxdrop]
+  HTML | CSS | Sass | BEM | JavaScript | jQuery
+  Description: A floor plan simulator laid out in a grid. Allows for placing down various pieces of furniture. Demonstrates principles of object collision detection, error         handling and a console of accessibility users.
+
+- Project 4: [Sport Spot][sportspot]
+  HTML | CSS | Sass | BEM | JavaScript | jQuery | REST API | Pair Programming w/ [Syl Aucoin][syl]
+  Description: A fields and recreational facilities locator for various popular sports. Features HTML Geolocation API which allows dynamic retrieval of a user's location to find   the nearest facilities for a given sport.
+  
+- Project 5: [My Debug Pal][mydebugpal]
+  HTML | CSS | Sass | BEM | JavaScript | React | Firebase
+  Description: A issue tracking and management application that allows logging and editing issues against repositories on my GitHub account.
+  
+- Project 6: [Not So Social Event Planner][notsosocial]
+  HTML | CSS | Sass | BEM | JavaScript | React | REST API | Gorup Programming
+  Description: A TV show scheduler for finding alternatives for attending social events.
+
+[syl]: https://sylcodes.com/
+[gridxdrop]: https://vhok.github.io/victor-hok-project-three/
+[sportspot]: https://thesportspot.netlify.app/
+[mydebugpal]: https://vhok.github.io/victor-hok-project-five/
+[nososocial]: https://cranky-kilby-29816c.netlify.app/
+

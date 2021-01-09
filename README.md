@@ -10,7 +10,7 @@ My background was in Engineering where I worked in the aerospace industry. Despi
 - 📚 I’m currently learning React context API, Node.js, and MongoDB.
 - 👯 I’m looking to collaborate with other Web Developers.
 - 🥅 2021 Goals: Make it the best year to date.
-- ⚡ Fun fact: I love to snowboarding, anime, and gaming.
+- ⚡ Fun fact: I love snowboarding, anime, and gaming.
 
 ### Connect with me:
 

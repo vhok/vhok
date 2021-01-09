@@ -51,5 +51,5 @@ My background was in Engineering where I worked in the aerospace industry. Despi
 [gridxdrop]: https://vhok.github.io/victor-hok-project-three/
 [sportspot]: https://thesportspot.netlify.app/
 [mydebugpal]: https://vhok.github.io/victor-hok-project-five/
-[nososocial]: https://cranky-kilby-29816c.netlify.app/
+[notsosocial]: https://cranky-kilby-29816c.netlify.app/
 

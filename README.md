@@ -35,7 +35,7 @@ My background was in Engineering where I worked in the aerospace industry. Despi
   Description: A issue tracking and management application that allows logging and editing issues against repositories on my GitHub account.
   
 - Project 6: [Not So Social Event Planner][notsosocial] | [GitHub Repo (External)][notsosocial-gh]  
-  HTML | CSS | Sass | JavaScript | React | REST API | Gorup Programming  
+  HTML | CSS | Sass | JavaScript | React | Firebase | REST API | Group Programming  
   Description: A TV show scheduler for finding alternatives for attending social events.
 
 ### Connect with me:

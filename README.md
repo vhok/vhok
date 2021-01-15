@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor (He/Him) 👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://www.victorhok.com)](https://www.victorhok.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hokdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hokvdev?ref_src=twsrc%5Etfw)
+[![Website](https://img.shields.io/website?down_color=red&down_message=down&label=portfolio&up_color=green&up_message=up&url=https%3A%2F%2Fwww.victorhok.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hokdev?style=social)
 
 ## I'm a Web Developer, Fitness Enthusiast, and Foodie :hamburger:!
 

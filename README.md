@@ -15,7 +15,7 @@ My background was in Engineering where I worked in the aerospace industry. Despi
 #### Projects Overview:
 
 - Project 1: Bikerland  
-  HTML | CSS | Sass | BEM  
+  HTML | CSS | BEM  
   Description: PSD conversion for a hypothetical bikeshop.
 
 - Project 2: Shoe Kloset  

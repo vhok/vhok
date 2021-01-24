@@ -12,10 +12,10 @@ My background was in Engineering where I worked in the aerospace industry. Despi
 - 🏒 2021 Goals: Make it the best year to date.
 - ⚡ Fun fact: I love snowboarding, anime, and gaming.
 
-#### Projects Overview:
-- Portfolio: My Personal Website
-  HTML | CSS | Sass | BEM | JavaScript
-  Description: My personal portfolio website.
+#### Projects Overview:  
+- Portfolio: My Personal Website  
+  HTML | CSS | Sass | BEM | JavaScript  
+  Description: My personal portfolio website.  
 
 - Project 1: Bikerland  
   HTML | CSS | BEM  

@@ -13,9 +13,9 @@ My background was in Engineering where I worked in the aerospace industry. Despi
 - ⚡ Fun fact: I love snowboarding, anime, and gaming.
 
 #### Projects Overview:  
-- Portfolio: My Personal Website  
+- Portfolio: [My Personal Website][portfolio]  
   HTML | CSS | Sass | BEM | JavaScript  
-  Description: My personal portfolio website.  
+  Description: My personal website.
 
 - Project 1: Bikerland  
   HTML | CSS | BEM  
@@ -50,6 +50,7 @@ My background was in Engineering where I worked in the aerospace industry. Despi
 [website]: https://www.victorhok.com
 [twitter]: https://twitter.com/hokdev
 [linkedin]: https://www.linkedin.com/in/victorhok/
+[portfolio]: https://www.victorhok.com/
 [syl]: https://sylcodes.com/
 [gridxdrop]: https://vhok.github.io/victor-hok-project-three/
 [sportspot]: https://thesportspot.netlify.app/

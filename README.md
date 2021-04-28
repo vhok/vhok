@@ -41,7 +41,7 @@ My background was in Engineering where I worked in the aerospace industry. Despi
   HTML | CSS | Sass | JavaScript | React | Firebase | REST API | Group Programming  
   Description: A TV show scheduler for finding alternatives for attending social events.
 
-- Project 7: [Group Ordering][grouoorder] ( Work in progress )
+- Project 7: [Group Ordering][grouporder] ( Work in progress )
   HTML | CSS | Sass | JavaScript | React | Node | Express | Mongoose | MongoDB
   Description: An ordering app for organizing group lunch orders.
 
@@ -62,4 +62,5 @@ My background was in Engineering where I worked in the aerospace industry. Despi
 [notsosocial]: https://cranky-kilby-29816c.netlify.app/
 [sportspot-gh]: https://github.com/socoin-and-vhok/syl-aucoin-and-victor-hok-project4
 [notsosocial-gh]: https://github.com/notSoAntiSocialTeam
+[grouporder]: https://github.com/group-order
 

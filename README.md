@@ -43,7 +43,7 @@ My background was in Engineering where I worked in the aerospace industry. Despi
 
 - Project 7: Group Ordering ( Work in progress )  
   HTML | CSS | Sass | JavaScript | React | Node | Express | Mongoose | MongoDB  
-  Description: An ordering app for organizing group lunch orders.  
+  Description: An ordering app for organizing group meal orders.  
 
 ### Connect with me:
 

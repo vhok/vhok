@@ -41,7 +41,7 @@ My background was in Engineering where I worked in the aerospace industry. Despi
   HTML | CSS | Sass | JavaScript | React | Firebase | REST API | Group Programming  
   Description: A TV show scheduler for finding alternatives for attending social events.
 
-- Project 7: [Group Ordering][grouporder] ( Work in progress )  
+- Project 7: Group Ordering ( Work in progress )  
   HTML | CSS | Sass | JavaScript | React | Node | Express | Mongoose | MongoDB  
   Description: An ordering app for organizing group lunch orders.  
 
